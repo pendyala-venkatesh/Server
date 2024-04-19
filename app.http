@@ -1,0 +1,19 @@
+ 
+ POST http://localhost:5555/send-video-details
+ Content-Type: application/json
+ 
+ {
+   "video_url":"https://www.youtube.com/watch?v=egkFRs01xPA&list=RDegkFRs01xPA&start_radio=1",
+  "title":"Jagananna Agenda Song By Nalgonda Gaddar | YS Jagan New Song 4K | CM YS Jagan Songs | News Buzz",
+  "view_count":"5,562,930 views",
+  "video_description":"Jagananna Agenda Song By Nalgonda Gaddar | YS Jagan New Song 4K | CM YS Jagan Songs",
+  "video_published_date":"Jan 13, 2024 ",
+  "channel_logo":"https://yt3.googleusercontent.com/ytc/AIdro_nxv67vXIO9wXkT9AzQwB1FLyIZrXbBeuGV_zWFBhpDTvQ=s176-c-k-c0x00ffffff-no-rj",
+  "channel_subscription":"1.64M subscribers",
+  "channel_name":"News Buzz",
+  "savedStatus":"true",
+  "category":"Trending",
+  "thumbnail_url":"https://i.ytimg.com/vi/egkFRs01xPA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG"
+   
+ 
+}
